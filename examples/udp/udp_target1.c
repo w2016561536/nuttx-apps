@@ -22,8 +22,10 @@
  * Included Files
  ****************************************************************************/
 
-#include "config.h"
+//#include "config.h"
 #include "udp.h"
+#include <nuttx/config.h>
+#include <stdio.h>
 
 /****************************************************************************
  * Public Functions
